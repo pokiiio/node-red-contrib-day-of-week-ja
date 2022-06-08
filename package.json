@@ -1,5 +1,5 @@
 {
-  "name": "red-contrib-day-of-week-ja",
+  "name": "node-red-contrib-day-of-week-ja",
   "version": "0.0.1",
   "description": "A Node-RED node for Japanese 曜日 (day of the week).",
   "main": "index.js",
