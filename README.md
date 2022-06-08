@@ -18,5 +18,5 @@ npm install node-red-contrib-day-of-week-ja
 このようなデータが取得できます。
 
 ```json
-{ dayNum: 4, dayName: '木曜日', isHoliday: true, holidayName: 'こどもの日' }
+{ "dayNum": 4, "dayName": "木曜日", "isHoliday": true, "holidayName": "こどもの日" }
 ```
